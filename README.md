@@ -1,4 +1,4 @@
-## Hi 🖐🏼 Filip here!
+## Hi! 👋🏼 Filip here!
 
 ### 💻 Junior front-end developer
 
