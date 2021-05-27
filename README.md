@@ -2,7 +2,6 @@
 
 
 Technologies I've used so far:
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 
 <!--
 **Fejlip/Fejlip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
