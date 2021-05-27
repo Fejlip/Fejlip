@@ -9,5 +9,5 @@
 
 #### My projects:
  * [gdk.com.pl](https://gdk.com.pl) (Nuxt.js + Vuetify.js)
- * [podcesje.pl](https://podcesje.pl) (Plain HTML, CSS and JS)
+ * [podcesje.pl](https://podcesje.pl) (Plain HTML and SCSS)
 
