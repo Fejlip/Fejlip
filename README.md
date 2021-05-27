@@ -1,4 +1,6 @@
-### Hi! Filip here - junior front-end developer
+## Hi 🖐🏼 Filip here!
+
+### 💻 Junior front-end developer
 
 
 Technologies I've used so far:
