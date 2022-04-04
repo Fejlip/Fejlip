@@ -1,6 +1,6 @@
 ## Hi! 👋🏼 Filip here!
 
-#### 💻 Junior front-end developer @ Squiz Poland
+#### 💻 Junior front-end developer @ Squiz 😎
 
 
 #### Technologies I've used so far:
