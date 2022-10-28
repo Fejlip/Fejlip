@@ -9,6 +9,5 @@
 
 #### My projects:
  * [gdk.com.pl](https://gdk.com.pl) (Nuxt.js (Vue) + Vuetify.js)
- * [podcesje.pl](https://podcesje.pl) (Plain HTML and SCSS)
  * [calihome.pl](https://calihome.pl) (Next.js (React) + Tailwind)
 
